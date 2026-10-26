@@ -1,0 +1,11 @@
+# 本地配置与密钥
+settings.json
+settings.local.json
+.env
+*.key
+*.pem
+
+# 缓存与临时文件
+__pycache__/
+.Rhistory
+~$*
